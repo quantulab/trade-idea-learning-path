@@ -1,0 +1,1 @@
+# trade-idea-learning-path
