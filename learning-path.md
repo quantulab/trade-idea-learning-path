@@ -12,8 +12,6 @@
 7.  [Oddsmaker](https://www.trade-ideas.com/guide/chapter/22/22Backtesting_Oddsmaker.html)
 8.  [Market Explorer](https://www.trade-ideas.com/guide/chapter/25/25Market_Explorer.html)
 9.  [The Anchored VWAP Add-on](https://www.trade-ideas.com/guide/chapter/33/33Anchored_VWAP_Addon.html)
-10. 
-
 
 ## Videos
 

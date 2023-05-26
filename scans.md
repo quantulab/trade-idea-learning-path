@@ -1,5 +1,4 @@
 # Scans
----
 
 #### MultiStrategies Windows
 * [Dock Momentum Up and Down](https://www.trade-ideas.com/Cloud.html?code=f167da886fe5a381a2e9d2f1cc220560)
