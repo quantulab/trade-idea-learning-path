@@ -4,8 +4,15 @@
 
 ### Important
 1. [Stock race](https://www.trade-ideas.com/guide/chapter/26/26Real_Time_Stock_Race.html)
-2. [AI Strategy](https://www.trade-ideas.com/guide/chapter/18/18Premium_AI_Strategy_Window.html)
-3.  
+2. [AI/Holly Strategy Window](https://www.trade-ideas.com/guide/chapter/18/18Premium_AI_Strategy_Window.html)
+3.  [AI/Holly Strategy Trades Window](https://www.trade-ideas.com/guide/chapter/19/19Premium_AI_Strategy_Trades_Window.html#aiholly-strategy-trades-window)
+4.  [Premium AI Longterm Strategy Trades Window](https://www.trade-ideas.com/guide/chapter/31/31Premium_AI_Long_Term_Strategy_Trades_Window.html)
+5.  [Premium RBI and GBI](https://www.trade-ideas.com/guide/chapter/20/20Premium_RBI_and_GBI.html)
+6.  [Brokers Plus](https://www.trade-ideas.com/guide/chapter/21/21Brokerage_Plus.html)
+7.  [Oddsmaker](https://www.trade-ideas.com/guide/chapter/22/22Backtesting_Oddsmaker.html)
+8.  [Market Explorer](https://www.trade-ideas.com/guide/chapter/25/25Market_Explorer.html)
+9.  [The Anchored VWAP Add-on](https://www.trade-ideas.com/guide/chapter/33/33Anchored_VWAP_Addon.html)
+10. 
 
 
 ## Videos
@@ -21,7 +28,7 @@
 
 ## Site
 1. [TI Guide](https://www.trade-ideas.com/guide/)
-2. 
+
 
 
 Learning path to guide you trading ideas as well as the concepts underneath
