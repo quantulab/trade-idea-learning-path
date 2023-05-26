@@ -1,8 +1,18 @@
 # Scans
 ---
+
+#### MultiStrategies Windows
+* [Dock Momentum Up and Down](https://www.trade-ideas.com/Cloud.html?code=f167da886fe5a381a2e9d2f1cc220560)
+
+#### Activities
+
+* [Halts/Resumes Shared](https://www.trade-ideas.com//Cloud.html?code=416c8711224468456079c2c378e778d5)
+
+
 #### Options
 
    * [Options Plays](https://www.trade-ideas.com//Cloud.html?code=0ab0e5239eeeed2f19e3a1daee7cbb3a)        
+#### Network Effect
 
    * [Social Network in Action](http://www.trade-ideas.com/Cloud.html?code=f26aba3638adb83a88a60b02e8b7392f)
    * [Turbo Breaks](http://www.trade-ideas.com/Cloud.html?code=efba7e5db7024b90219a2dca5cbe8bbe)
@@ -22,6 +32,8 @@
    * [Stocks Rallying off of the Bottom](http://www.trade-ideas.com/Cloud.html?code=95d4a3c8d6ba4fe4b17929ff5f5dbeb8)
    * [Yearly high in Stocks with high Relative Vol](http://www.trade-ideas.com/Cloud.html?code=6fdb212b2e01d9eb3323e406288ad434)
    * [Stocks Up 5 Days in a Row ](http://www.trade-ideas.com/Cloud.html?code=1798369a086c3742f84428136e8ec504)
+   * [Dock Momentum Up and Down]()
+ * [20 Day Range High: 3:51:20 - 3:51:49 4/18/2023](https://www.trade-ideas.com//Cloud.html?code=86e00d975098cbe0f954073fcb47fbba)
 #### Bearish
 
    * [10 Day Daily Breakdown](https://www.trade-ideas.com//Cloud.html?code=fa400d9fe8360b0c775613750898cf9c)
@@ -33,12 +45,16 @@
    * [Up 50 cents or More in the Last 5 Minutes on Big Volume Spike](http://www.trade-ideas.com/Cloud.html?code=4f4038fca86815890206b66b00606fe1)
 
 
-#### breakout
+#### Breakout
 * [See it before the breaking news](http://www.trade-ideas.com/Cloud.html?code=51a35a02fc3425bdbf0a53a4b27b337e)
+
+#### Start the day with strength
+* [Gap Continuation or Reverse](http://www.trade-ideas.com/Cloud.html?code=cdada00ec5bf5abff7658af0f8cffe9e)
 
 #### Pre Market
 * [Up big in Pre](http://www.trade-ideas.com/Cloud.html?code=51a35a02fc3425bdbf0a53a4b27b337e)
 * [Down big in Pre](http://www.trade-ideas.com/Cloud.html?code=dab679cf5ce357a514318b30053b18bf)
+
 
 #### Post Market
 * [Stocks Up Big in Post Market Trading](http://www.trade-ideas.com/Cloud.html?code=07a6cf7274a2463814cfa1511f28d55c)
@@ -65,3 +81,9 @@
 * [Up Big Yesterday but Down Big Today](http://www.trade-ideas.com/Cloud.html?code=17e208c5500d3c7c9484dfe09b5dcff0)
 * [Short Overextended Up Move- Hold for 45 Minutes 69% Success ](http://www.trade-ideas.com/Cloud.html?code=f6334ece5db9a137d4f1a7796a7aa0f9)
 
+
+#### Mixes
+* [Basic New Highs and Lows](https://www.trade-ideas.com//Cloud.html?code=649e2a32ca1b2a47eb75c36421ddc3f6)
+
+#### Penny Stocks
+*  [Penny Activity Big Picture](https://www.trade-ideas.com/Cloud.html?code=442a992947147e88f1d33a380d6cbeea)
