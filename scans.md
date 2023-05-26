@@ -1,4 +1,5 @@
-
+# Scans
+---
 ## Options
 
 * [Options Plays](https://www.trade-ideas.com//Cloud.html?code=0ab0e5239eeeed2f19e3a1daee7cbb3a)
@@ -37,7 +38,7 @@
 * [Up 50 cents or More in the Last 5 Minutes on Big Volume Spike](http://www.trade-ideas.com/Cloud.html?code=4f4038fca86815890206b66b00606fe1)
 
 
-## breakout
+## Breakout
 * [See it before the breaking news](http://www.trade-ideas.com/Cloud.html?code=51a35a02fc3425bdbf0a53a4b27b337e)
 
 ## Pre Market
