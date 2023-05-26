@@ -1,7 +1,15 @@
 # Scans
 
+#### Race
+* [biggest gainers from Open](https://www.trade-ideas.com/Cloud.html?code=6494a84f131a5fa33275083aa291e482)
+* [Large Cap gainer from Open](https://www.trade-ideas.com/Cloud.html?code=90da29d35053b64cbd7bee63aa3dbb3a)
+
 #### MultiStrategies Windows
 * [Dock Momentum Up and Down](https://www.trade-ideas.com/Cloud.html?code=f167da886fe5a381a2e9d2f1cc220560)
+* [Biggest Gainer from Open %](https://www.trade-ideas.com/Cloud.html?code=5636031575498ee2d421d1db0f52f3aa)
+* [Pre Market Activity](https://www.trade-ideas.com/Cloud.html?code=a35a8461a1551e4297812f14dec8d051)
+* [Pre market up and down](https://www.trade-ideas.com/Cloud.html?code=186b3e5e281e1ec5b9f0b1635f339af4)
+* [Dock Momentum Up and Down](https://www.trade-ideas.com/Cloud.html?code=ac34ec5c043a1f0b750b11a05972e465)
 
 #### Activities
 
@@ -33,6 +41,7 @@
    * [Stocks Up 5 Days in a Row ](http://www.trade-ideas.com/Cloud.html?code=1798369a086c3742f84428136e8ec504)
    * [Dock Momentum Up and Down]()
  * [20 Day Range High: 3:51:20 - 3:51:49 4/18/2023](https://www.trade-ideas.com//Cloud.html?code=86e00d975098cbe0f954073fcb47fbba)
+ * [MOMO](https://www.trade-ideas.com/Cloud.html?code=b9d9cdf81da1a4aae7bc23103ce43d22)
 #### Bearish
 
    * [10 Day Daily Breakdown](https://www.trade-ideas.com//Cloud.html?code=fa400d9fe8360b0c775613750898cf9c)
