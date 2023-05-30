@@ -10,7 +10,9 @@
 * [Pre Market Activity](https://www.trade-ideas.com/Cloud.html?code=a35a8461a1551e4297812f14dec8d051)
 * [Pre market up and down](https://www.trade-ideas.com/Cloud.html?code=186b3e5e281e1ec5b9f0b1635f339af4)
 * [Dock Momentum Up and Down](https://www.trade-ideas.com/Cloud.html?code=ac34ec5c043a1f0b750b11a05972e465)
-* [TI index Big Picture](https://www.trade-ideas.com/Cloud.html?code=917a201155030888c93622e024ac8b28)
+* [TI index Big Picture](https://www.trade-ideas.com/Cloud.html?code=e2dcfcbfedbf4c6ab14d058692bc64de)
+* [Social network in action big picture](https://www.trade-ideas.com/Cloud.html?code=996fc3717f3195d61897a383a85dd072)
+* [Climatic moves last 5 mins big picture](https://www.trade-ideas.com/Cloud.html?code=c23ab9abc0b5ed96fd80c74dfa931788)
 
 #### Activities
 
